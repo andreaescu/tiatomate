@@ -18,18 +18,28 @@
 .descripcion {
   background-color: $taupe-gray;
   font-family: $raleway;
-  text-align: center;
   color: $white;
-  padding-bottom: 10px;
+  padding-bottom: 50px;
 }
 h3 {
   font-size: $large;
+  text-align: center;
 }
 p {
   font-size: $medium;
+  padding-left: 350px;
+  padding-right: 350px;
+  padding-bottom: 20px;
+  text-align: left;
 }
 
 .limache {
   background-color: $white;
-  color: black;
+  color: $granite-gray;
+  font-family: $raleway;
+  text-align: center;
+}
+
+h2{
+  font-size: $x-large;
 }
